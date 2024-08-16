@@ -13,7 +13,8 @@ Expected result:
 2. Field "Password" has value "secret_sauce"
 3. After clicking on "Login" button redirected to https://www.saucedemo.com/inventory.html
 
-#Название тест-кейса: Авторизация на сайте
+
+** Название тест-кейса: Авторизация на сайте
 
 Описание: Проверка работоспособности функции авторизации на сайте с использованием существующих данных
 
@@ -26,5 +27,5 @@ Expected result:
 
 Ожидаемый результат:
 1. В поле "Username" отображается значение "standard_user"
-2. В поле "Password" отображается значение "secret_sauce", сокрытое за точками
+2. В поле "Password" введено значение "secret_sauce"
 3. После нажатия на кнопку "Login", перенаправление на новый url: https://www.saucedemo.com/inventory.html
