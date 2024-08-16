@@ -26,5 +26,5 @@ Expected result:
 
 Ожидаемый результат:
 1. В поле "Username" отображается значение "standard_user"
-2. В поле "Password" отображается значение "secret_sauce"
+2. В поле "Password" отображается значение "secret_sauce", сокрытое за точками
 3. После нажатия на кнопку "Login", перенаправление на новый url: https://www.saucedemo.com/inventory.html
